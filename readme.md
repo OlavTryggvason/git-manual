@@ -30,7 +30,7 @@
 
 • [Клонирование репозитория с подмодулями](./submodules/cloning.md)
 
-• [Обновление подмодулей](./submodules/update.md)
+• [Обновление подмодулей](./submodules/updatesub.md)
 
 • [Добавление подмодулей](./submodules/addsubmodules.md)
 
